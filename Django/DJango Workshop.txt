@@ -1,0 +1,8 @@
+Web Application Development using DJango
+
+DJango --> default SQLite Database
+
+DJango Framework --> Model View Template (MVT)
+
+
+
